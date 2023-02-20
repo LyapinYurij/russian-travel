@@ -1,0 +1,10 @@
+.position__lead {
+    padding-top: 56px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1279px) {
+    .position__lead {
+        padding-top: 48px;
+    }
+}

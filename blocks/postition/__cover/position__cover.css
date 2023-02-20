@@ -1,0 +1,24 @@
+.position__cover {
+    margin: 92px 48px 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .position__cover {
+        margin: 92px 0 0;
+    }
+    
+}
+
+@media screen and (max-width: 1279px) {
+    .position__cover {
+        margin: 90px 0 0;
+    }
+    
+}
+
+@media screen and (max-width: 1279px) {
+    .position__cover {
+        margin: 66px 0 0;
+    }
+    
+}
