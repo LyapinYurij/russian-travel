@@ -2,12 +2,6 @@
     margin: 92px auto 0; 
 }
 
-@media screen and (max-width: 1279px) {
-    .position__places {
-        margin: 92px auto 0;
-    } 
- }
-
  @media screen and (max-width: 1023px) {
     .position__places {
         margin: 88px auto 0;

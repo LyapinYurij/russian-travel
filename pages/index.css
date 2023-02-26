@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/font.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/postition/postiton.css);
+@import url(../blocks/position/postiton.css);
 @import url(../blocks/postition/__header/position__header.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
